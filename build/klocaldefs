@@ -1,0 +1,11 @@
+# klocaldefs — minimal IP22 (Indy R4000) kernel build config
+CPUBOARD=IP22
+PRODUCT=4D40
+CPUARCH=R4000
+COMPLEX=SP
+SUBPRODUCT=
+KDEBUG=
+ITHREAD=
+SABLE_BOOT=
+# Use kdebug unix
+UNIXS=unix.kdebug

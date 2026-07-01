@@ -1,0 +1,11 @@
+# Build output
+build/unix
+build/staging/
+build/bootarea/*.o
+build/master.d/
+build/mtune/
+
+# Editor
+*~
+*.swp
+.DS_Store
