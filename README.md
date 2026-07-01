@@ -1,6 +1,6 @@
 # IRIX 6.5.5f Kernel Rebuild
 
-A byte-accurate reconstruction of the SGI IRIX 6.5.5f IP22 (Indy) kernel. All 468 objects produce byte-identical output against the shipped kernel (IRIX 6.5 IP22 Version 07151432) — the bulk compiled from the original SGI source with the correct MIPSpro flags, with two genuinely missing source files reverse-engineered. The rebuilt kernel boots to the Indigo Magic 4Dwm desktop.
+A byte-accurate reconstruction of the SGI IRIX 6.5.5f IP22 (Indy) kernel. All 468 objects produce byte-identical output against the shipped kernel (IRIX 6.5 IP22 Version 07151432) — the bulk compiled from the original SGI source with the correct MIPSpro flags, with two genuinely missing source files reverse-engineered. The rebuilt kernel is verified, booting to the Indigo Magic 4Dwm desktop.
 
 ## What this project contains
 
