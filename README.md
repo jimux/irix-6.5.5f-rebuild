@@ -83,7 +83,7 @@ Every function in every object was verified instruction-by-instruction against t
 
 ## License
 
-Really? Kind of ambiguous here. IRIX 6.5.5 is 27 years old at this time, and IRIX itself saw its last release two decades ago. While partial leaks of the kernel code (mostly 6.5.5, which provided the basis for this effort) have been publicly available on Archive.org and GitHub for years now, and HP doesn't seem to care (not could I imagine a reason they would), I can't make any claims to ownership here. This isn't a "cleanroom reverse engineering" effort.
+Really? Kind of ambiguous here. IRIX 6.5.5 is 27 years old at this time, and IRIX itself saw its last release two decades ago. While partial leaks of the kernel code (mostly 6.5.5, which provided the basis for this effort) have been publicly available on Archive.org and GitHub for years now, and HP doesn't seem to care (nor could I imagine a reason they would), I can't make any claims to ownership here. This isn't a "cleanroom reverse engineering" effort.
 
 That said, this project is purely for historical preservation purposes. Something I undertook as a long-time fan of Silicon Graphics and someone who treasures the place they held in the history of computing. This effort came as fallout from a project to provide a robust emulation platform for old IRIX releases, and reverse engineering the kernel was very helpful to that end.
 
